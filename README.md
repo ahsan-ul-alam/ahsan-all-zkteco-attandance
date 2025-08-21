@@ -71,7 +71,7 @@ $zk = new AhsanAllZktecoAttandance('ipaddress', 'port');
 ```
 
 
-Call ZKTeco methods
+Call ZKTeco methods (Easy)
 
 * __Connect__ 
 ```php
