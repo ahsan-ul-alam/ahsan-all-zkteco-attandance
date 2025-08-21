@@ -1,5 +1,5 @@
 {
-  "name": "ahsan-ul-alam/laravel-all-zkteco-attendance",
+  "name": "ahsan-ul-alam/ahsan-all-zkteco-attendance",
   "description": "Connect any ZKTeco fingerprint attendance machine to a Laravel application with no effort.",
   "type": "library",
   "keywords": [
@@ -9,12 +9,12 @@
     "Ahsan Alam",
     "FingerPrintAutomation"
   ],
-  "homepage": "https://github.com/ahsan-ul-alam/laravel-all-zkteco-attendance",
+  "homepage": "https://github.com/ahsan-ul-alam/ahsan-all-zkteco-attendance",
   "license": "MIT",
   "authors": [
     {
       "name": "Ahsan",
-      "email": "ahsan@example.com",
+      "email": "ahsanulalam.500@gmail.com",
       "role": "Developer"
     }
   ],
