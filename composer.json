@@ -50,7 +50,7 @@
   },
   "scripts": {
     "post-autoload-dump": "@composer run prepare",
-    "clear": "@php vendor/bin/testbench package:purge-laravel-all-zkteco-attendance --ansi",
+    "clear": "@php vendor/bin/testbench package:purge-ahsan-all-zkteco-attendance --ansi",
     "prepare": "@php vendor/bin/testbench package:discover --ansi",
     "build": [
       "@composer run prepare",
@@ -76,7 +76,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Ahsan\\AllZktecoAttendance\\LaravelZktecoServiceProvider"
+        "Ahsan\\AllZktecoAttendance\\AhsanZktecoServiceProvider"
       ],
       "aliases": {
         "LaravelZkteco": "Ahsan\\AllZktecoAttendance\\Facades\\LaravelZkteco"
