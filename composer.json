@@ -76,7 +76,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Ahsan\\AllZktecoAttendance\\AhsanZktecoServiceProvider"
+         "Ahsan\\AllZktecoAttandance\\AhsanAllZktecoAttandanceServiceProvider"
       ],
       "aliases": {
         "LaravelZkteco": "Ahsan\\AllZktecoAttendance\\Facades\\LaravelZkteco"
